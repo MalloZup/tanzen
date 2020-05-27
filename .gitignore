@@ -4,7 +4,8 @@
 *.dll
 *.so
 *.dylib
-
+# exclude bin
+tanzen
 # Test binary, built with `go test -c`
 *.test
 
